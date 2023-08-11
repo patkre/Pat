@@ -1,12 +1,18 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
 body {
     font-family: lato, sans-serif; 
 }
 
 header {
     background-color: lightcoral;
+}
+
+h1 {
+    font-family: Oswald, sans-serif;
 }
 
 main {
